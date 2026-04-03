@@ -240,10 +240,6 @@ body {
     margin-right: 10px;
   }
 
-  .menu-wrap a {
-    color: white;
-    text-decoration: none;
-  }
   .menu a > i,
   .menu a {
     font-size: 12px !important;
